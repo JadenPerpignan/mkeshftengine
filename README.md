@@ -1,22 +1,9 @@
-<p align="center">
-  <img src="mkeshft.jpg" alt="MKESHFT ENGINE — A Modern, Cross-Platform 2D Game Engine" />
-  <br />
-  <span>
-    <!-- <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/android.yaml/badge.svg?branch=main" alt="Android" /> -->
-    <!-- <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/ios.yaml/badge.svg?branch=main" alt="iOS" /> -->
-    <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/macos.yaml/badge.svg?branch=main" alt="macOS" />
-    <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/ubuntu.yaml/badge.svg?branch=main" alt="Ubuntu" />
-    <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/webassembly.yaml/badge.svg?branch=main" alt="WebAssembly" />
-    <img src="https://github.com/jadenperpignan/mkeshft-engine/actions/workflows/windows.yaml/badge.svg?branch=main" alt="Windows" />
-  </span>
-</p>
-
 ## MKESHFT ENGINE
 
 ### Built by Jaden Perpignan
 
 **MKESHFT ENGINE** is a modern, scriptable 2D game engine written in C++23 + SDL, designed for fast iteration and real shipping workflows.  
-It is the spiritual successor to [Wintermoon](https://github.com/wintermoon/wintermoon), reimagined for today’s desktop, mobile, and web targets.
+
 
 ### Why MKESHFT? ⚡
 
